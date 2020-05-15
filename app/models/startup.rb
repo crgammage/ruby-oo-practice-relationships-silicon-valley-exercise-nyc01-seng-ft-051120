@@ -1,4 +1,7 @@
-require 'pry'
+
+
+
+
 class Startup
     attr_reader :founder
     attr_accessor :name, :domain
@@ -27,4 +30,5 @@ class Startup
         end
     end
 end
-# binding.pry
+
+
